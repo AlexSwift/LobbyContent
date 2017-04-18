@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	"$basetexture" "sassilization\wood\wood_floor02"
+	"$surfaceprop" "tile"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.1 .1 .1]"
+	"$envmapsaturation" "[1 1 1]"
+	"%keywords" "wood,floor,tile,sass,sassilization,lobby,lounge"
+}

@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sassilization/wall_interior_005"
+	"$bumpmap" "sassilization/wall_interior_02_normal"
+	"$surfaceprop" "Metal"
+//	"$envmap" "env_cubemap"
+//	"$envmaptint" "[.3 .3 .3]"
+}

@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	"$basetexture" "sassilization\lights\bar_light"
+	"$selfillum" "1"
+	"%keywords" "bar,light,lit,sass,sassilization,lobby,lounge"
+}

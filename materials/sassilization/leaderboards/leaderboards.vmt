@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sassilization/leaderboards/leaderboards"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

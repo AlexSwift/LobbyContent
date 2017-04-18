@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sassilization/tron/blue_tile_small_transparent"
+	"$translucent" "1"
+	"%keywords" "tron"
+}

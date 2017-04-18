@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "sassilization/t_floortile01"
+	"$surfaceprop" "metal"
+	"$bumpmap" "sassilization/t_floortile01_normal"
+}

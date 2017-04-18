@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\sam\videopoker\vpm_table"
+	"$model" 1
+	"$envmapmode" 1
+}

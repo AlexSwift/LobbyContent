@@ -1,0 +1,37 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sassilization/trim_lights_white"
+	//"$surfaceprop" "Metal"
+	 "$selfillum" 1
+
+	"$selfillumtint" "[1.0 1.0 1.0]"
+ 
+	"$offset" "0"
+       
+	"Proxies"
+	{
+		"EntityRandom"
+		{
+			"scale" "12"
+			"resultVar" "$offset"
+		}
+		"Sine"
+		{
+			"sineperiod" 9
+			"timeoffset" "$offset"             
+			"resultVar" "$selfillumtint[0]"
+		}
+		"Sine"
+		{
+			"sineperiod" 18
+			"timeoffset" "$offset"             
+			"resultVar" "$selfillumtint[1]"
+		}
+		"Sine"
+		{
+			"sineperiod" 27
+			"timeoffset" "$offset"             
+			"resultVar" "$selfillumtint[2]"
+		}
+		}
+}

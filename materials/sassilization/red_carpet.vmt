@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sassilization/red_carpet"
+	"$bumpmap" "sassilization/red_carpet_bump"
+}

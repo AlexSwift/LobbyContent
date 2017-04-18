@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "elevator/button_arrow"
+	"$translucent" 1
+}

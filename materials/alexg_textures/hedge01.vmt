@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Alexg_textures/Hedge01"
+	"$bumpmap" "Alexg_textures/Hedge01_normal"
+	"%compilepassbullets" 1
+	"$surfaceprop" "Grass"
+	"$alphatest" 1
+}

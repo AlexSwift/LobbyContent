@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"maps/ep2_outland_01"
+	"$ignorez"		1
+	"$vertexcolor" 		1
+	"$vertexalpha" 		1
+}

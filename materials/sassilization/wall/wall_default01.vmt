@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	"$basetexture" "sassilization\wall\wall_default01"
+	"$surfaceprop" "plaster"
+	"%keywords" "wall,sass,sassilization,lobby,lounge"
+}

@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture"	"jaanus/trophy"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "jaanus/trophy_mask"
+	"$envmapcontrast "1.0"
+	"$envmapsaturation" [1.0 1.0 1.0]
+}
+

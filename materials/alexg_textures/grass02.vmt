@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Alexg_textures/Grass02"
+	"$bumpmap" "Alexg_textures/Grass02_normal"
+	"$surfaceprop" "Grass"
+	"%detailtype" "Alexg_Grass"
+}

@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sassilization/tron/unlit_tile"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "tile"
+	"$envmaptint" "[ .05 .05 .05 ]"
+	"%keywords" "tron"
+}

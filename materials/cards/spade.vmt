@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "cards/spade"
+	"$translucent" 1
+}

@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+
+	"$basetexture" "models\sassilization\hammer\weapon_hammer"
+	"$bumpmap" "models\sassilization\hammer\weapon_hammer_norm"
+
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.1 .1 .1]"
+
+	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+}

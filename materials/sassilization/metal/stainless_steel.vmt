@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	"$basetexture" "sassilization\metal\stainless_steel"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.6 .6 .6]"
+	"$envmapsaturation" "[1 1 1]"
+	"$envmapmask" "sassilization\metal\stainless_steel"
+	"%keywords" "metal,steel,stainless,sass,sassilization,lobby,lounge"
+}

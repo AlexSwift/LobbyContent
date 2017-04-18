@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture" "sassilization\wood\old\offdesktop"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "sassilization\wood\old\offdesktop_ref"
+	"$surfaceprop" "wood"
+	"$envmaptint" "[0.13 0.09 0.05]"
+}

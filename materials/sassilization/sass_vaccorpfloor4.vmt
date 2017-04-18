@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "sassilization/sass_vaccorpfloor4"
+	"$surfaceprop" "metal"
+	"$selfillum" "1" 
+}

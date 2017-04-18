@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "cards/flipped"
+	"$translucent" 1
+}

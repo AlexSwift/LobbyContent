@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Alexg_textures/Wall03"
+	"$surfaceprop" "plaster"
+	"$bumpmap" "Alexg_textures/Wall03_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[0.2 0.2 0.2]"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 0.5
+}

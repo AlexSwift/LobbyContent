@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	"$basetexture" "sassilization\tile\tile_exterior01"
+	"$bumpmap" "sassilization\tile\tile_exterior01_norm"
+	"$surfaceprop" "tile"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.15 .15 .15]"
+	"$envmapsaturation" "[1 1 1]"
+	"%keywords" "floor,tile,exterior,outdoor,out,door,sass,sassilization,lobby,lounge"
+}

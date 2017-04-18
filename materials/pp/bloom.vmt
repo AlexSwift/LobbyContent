@@ -1,0 +1,9 @@
+"g_bloom"
+{
+	"$levelr" 			"0.5" 
+	"$levelg" 			"0.5" 
+	"$levelb" 			"0.5" 
+	"$ignorez"		1
+	
+	"$basetexture" "_rt_FullFrameFB"
+}

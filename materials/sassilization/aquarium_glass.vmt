@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sassilization/aquarium_glass"
+	"$translucent" 1
+	"$nocull" 1
+
+	"$surfaceprop" "glass"
+
+	"$envmap" "env_cubemap"
+}

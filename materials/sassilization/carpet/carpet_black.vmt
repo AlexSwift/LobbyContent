@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	"$basetexture" "sassilization\carpet\carpet_black"
+	"$bumpmap" "sassilization\carpet\carpet_black_norm"
+	"$surfaceprop" "carpet"
+	"%keywords" "carpet,sass,sassilization,lobby,lounge"
+	"$detail" "sassilization\carpet\dt_carpet_detail"
+	"$detailscale" "12"
+}

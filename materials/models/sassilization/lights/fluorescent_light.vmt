@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/sassilization/lights/fluorescent_light"
+	"$selfillum" "1"
+}
+

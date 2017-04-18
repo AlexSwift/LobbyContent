@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\sam\videopoker\vpm_machine"
+	"$normalmapalphaenvmapmask" 1
+	"$selfillum" 1
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1.0
+	"$reflectivity" "[.23 .31 .31 ]"
+	"$bumpmap" "models\sam\videopoker\vpm_normal"
+}

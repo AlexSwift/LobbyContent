@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "elevator/button"
+	"$bumpmap" "elevator/button_norm"
+	"$translucent" 1
+}

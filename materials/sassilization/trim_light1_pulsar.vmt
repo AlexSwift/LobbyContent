@@ -1,0 +1,20 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sassilization/trim_light1"
+	"$surfaceprop" "metal2"
+	"$bumpmap" "sassilization/trim_light1_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .01 .01 .01 ]"
+	"$normalmapalphaenvmapmask" "1"
+	"$selfillum" "1"
+	"Proxies"
+	{
+		"Sine"
+		{
+			"resultVar" "$selfIllumTint"
+			"sinemin" 0.30
+			"sinemax" 1.00
+			"sineperiod" 4.00
+		}
+	}
+}

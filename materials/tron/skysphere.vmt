@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "sassilization/tron/skysphere"
+	"$selfillum" "1"
+	"%keywords" "tron"
+}

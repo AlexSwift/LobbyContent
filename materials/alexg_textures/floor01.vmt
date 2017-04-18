@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Alexg_textures/Floor01"
+	"$surfaceprop" "tile"
+	"$bumpmap" "Alexg_textures/Floor01_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.75 0.75 0.75]"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+}

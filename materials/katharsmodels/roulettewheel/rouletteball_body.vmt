@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "katharsmodels/roulettewheel/rouletteball_body"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 0.7
+
+}

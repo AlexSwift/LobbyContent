@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"		"Lobby Content Client Pack"
+	"version"	"Revision 0"
+	"author_name"	"Sassilization"
+	"author_url"	"http://sassilization.com"
+	"info"		"The client addon for the Lobby"
+	"override"	"0"
+}

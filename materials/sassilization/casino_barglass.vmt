@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sassilization/casino_barglass"
+	"$translucent" 1
+
+	"$surfaceprop" "glass"
+
+	"$envmap" "env_cubemap"
+}

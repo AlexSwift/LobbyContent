@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture" "sassilization\exterior\wall_marble02"
+	"$surfaceprop" "tile"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.005 .005 .005]"
+	"%keywords" "marble,wall,sass,sassilization,lobby,lounge,entrance,exterior,outdoor,outdoors,outside"
+}

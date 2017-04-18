@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sassilization/road_asphalt"
+	"$surfaceprop" "concrete"
+}

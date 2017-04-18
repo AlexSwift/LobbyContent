@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sassilization/arcade/ascope"
+	"$nolod" 1
+	"$translucent" 1
+}

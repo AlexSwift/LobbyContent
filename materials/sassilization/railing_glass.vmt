@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sassilization/railing_glass"
+	"$translucent" 1
+
+	"$surfaceprop" "glass"
+
+	"$envmap" "env_cubemap"
+	"$envmapmask" "sassilization/railing_glass_mask"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .5 .5 .65]"
+}

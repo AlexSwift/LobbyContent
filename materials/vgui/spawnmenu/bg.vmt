@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"vgui/spawnmenu/bg"
+	"$vertexcolor" 		0
+	"$vertexalpha" 		0
+	"$nolod" 			1
+	"$ignorez"		1
+	"$writeZ"		0
+	"$model" 1 
+	"$nocull" 1 
+	"$alpha" 1
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sassilization/arcade/ateamyellow"
+	"$translucent" 1
+	"$vertexalpha" 1
+}

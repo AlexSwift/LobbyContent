@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Alexg_textures/Wall02"
+	"$surfaceprop" "Brick"
+	"$bumpmap" "Alexg_textures/Wall02_normal"
+}

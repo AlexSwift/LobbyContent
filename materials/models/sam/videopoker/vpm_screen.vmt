@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\sam\videopoker\vpm_screen"
+	"$model" 1
+	"$envmapmode" 1
+	"$surfaceprop" glass
+	"$selfillum" 1
+}

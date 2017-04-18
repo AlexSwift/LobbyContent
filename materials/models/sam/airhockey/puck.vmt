@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\sam\airhockey\pusher_puck"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1.0
+	"$reflectivity" "[.23 .31 .31 ]"
+}

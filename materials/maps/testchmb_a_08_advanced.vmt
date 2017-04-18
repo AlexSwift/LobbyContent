@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"maps/testchmb_a_08_advanced"
+	"$ignorez"		1
+	"$vertexcolor" 		1
+	"$vertexalpha" 		1
+}
+
+
